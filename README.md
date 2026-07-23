@@ -1,21 +1,46 @@
-Portfolio Website
+# Personal Portfolio Website
 
-This is my personal portfolio website created using HTML and CSS.
-It showcases my skills, projects, and basic knowledge of frontend development.
+A simple and responsive personal portfolio website built using **HTML, CSS, and JavaScript**. This project showcases my profile, technical skills, projects, and contact information through a clean and user-friendly interface.
 
-Technologies Used
-HTML
-CSS
-Features
-Simple and clean design
-Responsive layout
-Easy navigation
-Purpose
+## Features
 
-This project is made as part of my learning journey to become a frontend developer.
+* Responsive design for desktop and mobile devices
+* Home, About, Skills, Projects, and Contact sections
+* Smooth navigation between sections
+* Modern and clean user interface
+* Interactive elements using JavaScript
+* Easy to customize and expand
 
-Author
+## Technologies Used
 
-Prashanta Kumar Naik
+* HTML5
+* CSS3
+* JavaScript (ES6)
 
-GitHub: https://github.com/PrashantNaik07
+## Project Structure
+
+```
+portfolio/
+│── index.html
+│── style.css
+│── script.js
+└── README.md
+```
+
+## Getting Started
+
+1. Clone or download this repository.
+2. Open the `index.html` file in your web browser.
+3. Explore the portfolio and customize it with your own information.
+
+## Future Enhancements
+
+* Dark/Light mode
+* Downloadable resume
+* Contact form with backend support
+* Project filtering and animations
+* Blog section
+
+## Author
+
+**Bikram Meher**
